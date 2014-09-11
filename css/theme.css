@@ -83,12 +83,8 @@ body {
 
 article {
   font-family: 'Open Sans', Arial, sans-serif;
-  margin-top: 51px;
   width: 100%; }
 
-@media (max-width: 899px) {
-  article {
-    margin-top: 49px; } }
 #wrapper {
   padding: 5rem 0;
   position: relative;
@@ -544,6 +540,7 @@ article {
   margin-bottom: 2rem; }
 
 .more a {
+  color: rgb(33,33,33);
   display: block;
   font-family: 'Open Sans', Arial, sans-serif;
   float: left;
