@@ -935,9 +935,13 @@ article {
   max-width: 1200px; }
   #spotlight img {
     float: right;
-    width: 500px; }
+    width: 500px;
+    height: auto;
+    shape-outside: polygon(4px 393px, 34px 296px, 157px 134px, 176px 1px, 500px 0px, 500px 733px, 96px 734px, 159px 594px, 139px 434px, 43px 429px);
+    shape-margin: 20px; }
   #spotlight p {
-    width: 50%;
+    width: 100%;
+    max-width: none;
     margin: 0 0 2.4rem; }
   #spotlight p.subhead {
     margin-bottom: 1rem; }
@@ -993,7 +997,7 @@ article {
       border: 5px solid #c8c8c8;
       display: block;
       margin: 0 auto 2rem;
-      width: 60%; }
+      width: 125px; }
     #fantasy .fantasyPlayer .subhead {
       font-size: 2rem;
       line-height: 2.8rem; }
