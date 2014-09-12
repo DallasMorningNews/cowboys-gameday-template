@@ -208,7 +208,7 @@ article {
   .bodyCopy hgroup h2 {
     font-size: 1.8rem;
     line-height: 2.4rem;
-    margin-bottom: 30px; }
+    margin-bottom: .5rem; }
 
   .bodyCopy .intro {
     font-size: 2.2rem;
@@ -230,7 +230,7 @@ article {
   .bodyCopy hgroup h2 {
     font-size: 1.8rem;
     line-height: 2.4rem;
-    margin-bottom: 30px; }
+    margin-bottom: .5rem; }
 
   .bodyCopy .intro {
     font-size: 1.8rem;
@@ -663,7 +663,7 @@ article {
     padding-left: 8px; }
 
 .logoBlock {
-  margin: 3rem auto 1rem;
+  margin: 2rem auto 1rem;
   display: block; }
   .logoBlock img {
     margin: 0 2rem;
